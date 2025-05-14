@@ -1,0 +1,6 @@
+streamlit
+streamlit-drawable-canvas
+segment-anything
+torch
+opencv-python
+supervision
